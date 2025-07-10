@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chianw-mcpserver1-badge.png)](https://mseep.ai/app/chianw-mcpserver1)
+
 # mcpserver1
 
 ## Simple Python-based MCP server and client that uses OpenAI
